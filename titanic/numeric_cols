@@ -1,0 +1,37 @@
+MSSubClass
+LotFrontage - 
+LotArea
+OverQual
+OverallCond
+YearBuilt
+YearRemoveAdd
+MasVnrArea
+BsmtFinSF1
+BsmtFinSF2
+BsmtUnfSF
+Total BsmtSF
+1stFlrSF
+2ndFlrSF
+LowQulFinSF
+GrLivArea
+BsmtFullBath
+BsmtHalfBath
+FullBath
+HalfBath
+BedroomAbvGr
+KitchenAbvGr
+TotRmsAbvGrd
+Fireplaces
+GarageYrBlt
+GarageCars
+GarageArea
+WoodDeckSF
+OpenPorchSF
+EnclosedPorch
+3SsnPorch
+ScreenPorch
+PoolArea
+MiscVal
+MoSold
+YrSold
+SalePrice
