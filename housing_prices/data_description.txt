@@ -67,11 +67,11 @@ Utilities: Type of utilities available
 	
 LotConfig: Lot configuration
 
-       Inside	Inside lot
-       Corner	Corner lot
+       Inside	       Inside lot
+       Corner	       Corner lot
        CulDSac	Cul-de-sac
-       FR2	Frontage on 2 sides of property
-       FR3	Frontage on 3 sides of property
+       FR2	       Frontage on 2 sides of property
+       FR3	       Frontage on 3 sides of property
 	
 LandSlope: Slope of property
 		
@@ -240,7 +240,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
 	
-MasVnrType: Masonry veneer type
+VnrType: Masonry veneer type
 ****Done****
        BrkCmn	Brick Common
        BrkFace Brick Face
@@ -521,4 +521,5 @@ SaleCondition: Condition of sale
        AdjLand	Adjoining Land Purchase
        Alloca	       Allocation - two linked properties with separate deeds, typically condo with a garage unit	
        Family	       Sale between family members
-       Partial	Home was not completed when last assessed (associated with New Homes)
+Roof  Partial	Home was not completed when last assessed (associated with New Homes)
+Roof
